@@ -1,0 +1,140 @@
+{
+  "app":{
+    "theme":"light"
+  },
+  "widgets":[
+    {
+      "type":"banner",
+      "image":"https://media.post.rvohealth.io/wp-content/uploads/2021/09/daal-dal-naan-indian-food-1200x628-facebook-1200x628.jpg",
+      "header_text":"New Recipe",
+      "footer_text":"Cook Chicken Curry",
+      "footer_icon":true,
+      "paddingTop": 10.0,
+      "paddingBottom": 10.0,
+      "paddingLeft": 20.0,
+      "paddingRight": 20.0,
+      "borderRadius": 30.0
+    },
+    {
+      "type":"banner",
+      "color":"blue",
+      "header_text":"Meal Planner",
+      "footer_text":"Plan your meals",
+      "footer_icon":false
+    },
+    {
+      "type":"horizontal_list",
+      "title":"Collections",
+      "items":[
+        {
+          "type":"circular_item",
+          "text":"Breakfast",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYs551vTB_Aq7WSPRrBXWrl9-D090Cevt63mYp4y6NqSb1q0YCLfglHoruTSC01TR2kE&usqp=CAU"
+        },
+        {
+          "type":"box_item",
+          "text":"Meat Based",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYCdHE5r3mGNImzwQN8Z4KildoHOhfGgftEjOpUsakjLywdL63wXDblEGnO34U2ETMUI&usqp=CAU"
+        },
+        {
+          "type":"box_item",
+          "text":"Vegan",
+          "image":"https://media.post.rvohealth.io/wp-content/uploads/2021/09/daal-dal-naan-indian-food-1200x628-facebook-1200x628.jpg"
+        },
+        {
+          "type":"circular_item",
+          "text":"Breakfast",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYs551vTB_Aq7WSPRrBXWrl9-D090Cevt63mYp4y6NqSb1q0YCLfglHoruTSC01TR2kE&usqp=CAU"
+        },
+        {
+          "type":"circular_item",
+          "text":"Meat Based",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYCdHE5r3mGNImzwQN8Z4KildoHOhfGgftEjOpUsakjLywdL63wXDblEGnO34U2ETMUI&usqp=CAU"
+        }
+      ]
+    },
+    {
+      "type":"horizontal_list",
+      "title":"Cuisines",
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "paddingLeft": 15.0,
+      "paddingRight": 15.0,
+      "items":[
+        {
+          "type":"box_item",
+          "text":"American",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYs551vTB_Aq7WSPRrBXWrl9-D090Cevt63mYp4y6NqSb1q0YCLfglHoruTSC01TR2kE&usqp=CAU"
+        },
+        {
+          "type":"circular_item",
+          "text":"Italian",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYCdHE5r3mGNImzwQN8Z4KildoHOhfGgftEjOpUsakjLywdL63wXDblEGnO34U2ETMUI&usqp=CAU"
+        },
+        {
+          "type":"box_item",
+          "text":"Thai",
+          "image":"https://media.post.rvohealth.io/wp-content/uploads/2021/09/daal-dal-naan-indian-food-1200x628-facebook-1200x628.jpg"
+        },
+        {
+          "type":"circular_item",
+          "text":"American",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYs551vTB_Aq7WSPRrBXWrl9-D090Cevt63mYp4y6NqSb1q0YCLfglHoruTSC01TR2kE&usqp=CAU"
+        },
+        {
+          "type":"circular_item",
+          "text":"Italian",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYCdHE5r3mGNImzwQN8Z4KildoHOhfGgftEjOpUsakjLywdL63wXDblEGnO34U2ETMUI&usqp=CAU"
+        },
+        {
+          "type":"box_item",
+          "text":"Thai",
+          "image":"https://media.post.rvohealth.io/wp-content/uploads/2021/09/daal-dal-naan-indian-food-1200x628-facebook-1200x628.jpg"
+        }
+      ]
+    },
+    {
+      "type":"banner_carousel",
+      "items":[
+        {
+          "type":"banner",
+          "image":"https://media.post.rvohealth.io/wp-content/uploads/2021/09/daal-dal-naan-indian-food-1200x628-facebook-1200x628.jpg",
+          "header_text":"New Recipe",
+          "footer_text":"Cook Chicken Curry",
+          "footer_icon":true,
+          "paddingTop": 10.0,
+          "paddingBottom": 10.0,
+          "paddingLeft": 20.0,
+          "paddingRight": 20.0,
+          "borderRadius": 30.0
+        },
+        {
+          "type":"banner",
+          "color":"yellow",
+          "header_text":"Cooking Dish",
+          "footer_text":"Process to Cook",
+          "footer_icon":false
+        },
+        {
+          "type":"banner",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYCdHE5r3mGNImzwQN8Z4KildoHOhfGgftEjOpUsakjLywdL63wXDblEGnO34U2ETMUI&usqp=CAU",
+          "header_text":"Tasty lunch",
+          "footer_text":"Full Thali",
+          "footer_icon":true,
+          "paddingTop": 10.0,
+          "paddingBottom": 10.0,
+          "paddingLeft": 20.0,
+          "paddingRight": 20.0,
+          "borderRadius": 30.0
+        },
+        {
+          "type":"banner",
+          "color":"green",
+          "header_text":"Tasty lunch",
+          "footer_text":"Plan your meals",
+          "footer_icon":false
+        }
+      ]
+    }
+  ]
+}
